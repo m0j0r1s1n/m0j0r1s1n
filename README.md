@@ -76,7 +76,7 @@
 
 ###
 
-<p align="center">✨ Creating bugs since I got my hands on a keyboard<br>📚 I'm currently learning Systems Penetration Testing IRL - Learn parsel tongue (if I can spell it)<br>🎯 Goals: Get a Job in Cyber and earn more than before<br>🎲 Fun fact: I know how to be a Super Mario Character and plumb things in, woohooo!!<br><br>Serious though, if you do need to know more I have nearly finished a degree in Cyber Security.  It involved a tonne on material so I should kno something. Reach out to my email or another OSINT way for more infos XD</p>
+<p align="center">✨ Creating bugs since I got my hands on a keyboard<br>📚 I'm currently learning Systems Penetration Testing IRL - Learn parsel tongue (if I can spell it)<br>🎯 Goals: Get a Job in Cyber and earn more than before<br>🎲 Fun fact: I know how to be a Super Mario Character and plumb things in, woohooo!!<br><br>Serious though, if you do need to know more I have nearly finished a degree in Cyber Security.  It involved a tonne on material so I should know something. Reach out to my email or another OSINT way for more infos XD</p>
 
 ###
 
