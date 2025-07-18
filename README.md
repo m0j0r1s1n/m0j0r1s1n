@@ -18,8 +18,12 @@
 
 ###
 
+<h2 align='center'>GitHub Stats 📈</h2>
+
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=m0j0r1s1n)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=m0j0r1s1n&theme=merko&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 <div>
 
 
