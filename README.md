@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/m0j0r1s1n/count.svg?"  />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=m0j0r1s1n)](https://git.io/streak-stats)
 </div>
 
 ###
