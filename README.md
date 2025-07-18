@@ -1,7 +1,3 @@
-<div align="center">
-  <img src='http://www.catb.org/hacker-emblem/glider.png' alt='hacker emblem'>
-</div>
-
 ###
 
 <br clear="both">
