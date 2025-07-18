@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src='http://www.catb.org/hacker-emblem/glider.png' alt='hacker emblem'>
+  <img src='http://www.catb.org/hacker-emblem/glider.png' alt='hacker emblem'>
 </div>
 
 ###
