@@ -20,7 +20,7 @@
 
 <div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com/?user=m0j0r1s1n)](https://git.io/streak-stats)
-</div>
+<div>
 
 
 ###
